@@ -107,3 +107,5 @@ The current implementation focuses on anomaly detection using motion analysis. F
 ## Conclusion
 
 This project demonstrates an effective approach for detecting abnormal crowd behavior by learning normal motion patterns and identifying deviations through anomaly scoring. The proposed system can assist surveillance applications by providing automated and reliable monitoring of crowded environments while reducing manual observation efforts.
+
+Dataset link to download: http://www.svcl.ucsd.edu/projects/anomaly/UCSD_Anomaly_Dataset.tar.gz
